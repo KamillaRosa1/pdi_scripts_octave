@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este repositório é primariamente um **ambiente de desenvolvimento e estudo** focado no domínio das funcionalidades e sintaxe do GNU Octave, utilizando PDI como alvo de aplicação, visando ser uma **coleção de scripts** de Processamento Digital de Imagens.
+Este repositório é primariamente um ambiente de **desenvolvimento e estudo** focado no domínio das funcionalidades e sintaxe do GNU Octave, utilizando PDI como alvo de aplicação, visando ser uma **coleção de scripts** de Processamento Digital de Imagens.
 
 O primeiro módulo implementado é o Editor de Imagens Sépia, que serve como demonstração da aplicação da GUI e do pacote `image`.
 
@@ -11,7 +11,7 @@ O primeiro módulo implementado é o Editor de Imagens Sépia, que serve como de
 O software requer as seguintes dependências e ambiente:
 
 1.  **GNU Octave:** Versão utilizada 10.2.0.
-2.  **Pacote `image`:** Necessário para as funções imread`, `imwrite`, `imshow` e `rgb2ntsc`.
+2.  **Pacote `image`:** Necessário para as funções `imread`, `imwrite`, `imshow` e `rgb2ntsc`.
 
 ### Instalação de Dependências
 
